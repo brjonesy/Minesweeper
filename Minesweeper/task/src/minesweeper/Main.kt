@@ -19,6 +19,7 @@ class Minesweeper(private var mineNumber: Int){
         return randomList
     }
 
+
     private fun makeTable(list: MutableList<Int>): MutableList<MutableList<String>> {
         val table = mutableListOf(
             mutableListOf(".", ".", ".", ".", ".", ".", ".", ".", "."),
