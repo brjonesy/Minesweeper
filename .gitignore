@@ -1,0 +1,18 @@
+.idea
+.gradle
+gradle
+build
+build.gradle
+course-info.yaml
+course-remote-info.yaml
+gradlew
+gradlew.bat
+settings.gradle
+Minesweeper/Battle/
+Minesweeper/Flexible mines/
+Minesweeper/Lay the groundwork/
+Minesweeper/Look around you/
+Minesweeper/Prepare for battle/
+Minesweeper/lesson-info.yaml
+Minesweeper/task/out/
+Minesweeper/task/test/
